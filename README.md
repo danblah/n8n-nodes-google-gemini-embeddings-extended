@@ -38,7 +38,7 @@ npm install n8n-nodes-google-gemini-embeddings-extended
 
 This node uses the standard Google PaLM/Gemini API credentials:
 
-1. Get your API key from [Google AI Studio](https://makersuite.google.com/app/apikey)
+1. Get your API key from [Google AI Studio](https://aistudio.google.com/app/apikey)
 2. In n8n, create **Google PaLM API** credentials
 3. Enter your API key
 
